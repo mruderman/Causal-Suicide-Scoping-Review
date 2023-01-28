@@ -1,0 +1,83 @@
+DOMAIN;INCLUDE_EXCLUDE;FIELD;Query;Result_Counts
+Intention;INCLUDE;MeSH;"""causality""[MeSH]";962516
+Intention;INCLUDE;Title/Abstract;"""causal*""[Title/Abstract]";139814
+INTENTION;INCLUDE;Combined;"""causality""[MeSH] OR ""causal*""[Title/Abstract]";1085861
+Suicide;INCLUDE;MeSH;"""Suicide Prevention""[Mesh]";11153
+Suicide;INCLUDE;MeSH;"""Suicide, Attempted""[Mesh]";22484
+Suicide;INCLUDE;MeSH;"""Suicide, Completed""[Mesh]";271
+Suicide;INCLUDE;MeSH;"""Suicide""[Mesh:NoExp]";39532
+Suicide;INCLUDE;Title/Abstract;"""Intentional Poisoning*""[Title/Abstract]";267
+Suicide;INCLUDE;Title/Abstract;"""suicid*""[Title/Abstract]";93628
+SUICIDE;INCLUDE;Combined;"""Suicide Prevention""[Mesh] OR ""Suicide, Attempted""[Mesh] OR ""Suicide, Completed""[Mesh] OR ""Suicide""[Mesh:NoExp] OR ""Intentional Poisoning*""[Title/Abstract] OR ""suicid*""[Title/Abstract]";107600
+Suicide;EXCLUDE;MeSH;"""Suicide, assisted""[Mesh]";6217
+Suicide;EXCLUDE;MeSH;"""Euthanasia""[Mesh]";15241
+Suicide;EXCLUDE;MeSH;"""Right to Die""[Mesh]";4958
+Suicide;EXCLUDE;MeSH;"""Suicide, Assisted""[Mesh]";6217
+Suicide;EXCLUDE;Text;"""assisted suicide""[Title/Abstract]";3302
+Suicide;EXCLUDE;Text;"""Euthanasia""[Title/Abstract]";23745
+Suicide;EXCLUDE;Text;"""physician-assisted suicide""[Title/Abstract]";1697
+Suicide;EXCLUDE;Text;"""Right to Die""[Title/Abstract]";980
+SUICIDE;EXCLUDE;Combined;"""Suicide, assisted""[Mesh] OR ""Euthanasia""[Mesh] OR ""Right to Die""[Mesh] OR ""Suicide, Assisted""[Mesh] OR ""assisted suicide""[Title/Abstract] OR ""Euthanasia""[Title/Abstract] OR ""physician-assisted suicide""[Title/Abstract] OR ""Right to Die""[Title/Abstract]";33842
+Method;INCLUDE;MeSH;"""Mediation Analysis""[Mesh]";663
+Method;INCLUDE;MeSH;"""Mendelian Randomization Analysis""[MeSH]";3242
+Method;INCLUDE;Title/Abstract;"""Analysis of Moment Structure*""[Title/Abstract]";78
+Method;INCLUDE;Title/Abstract;"""Ancestral Graph""[Title/Abstract]";15
+Method;INCLUDE;Title/Abstract;"""Bayesian network*""[Title/Abstract]";4827
+Method;INCLUDE;Title/Abstract;"""causal deep learning""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Causal diagram""[Title/Abstract]";85
+Method;INCLUDE;Title/Abstract;"""Causal directed acyclic graph*""[Title/Abstract]";42
+Method;INCLUDE;Title/Abstract;"""Causal discovery""[Title/Abstract]";159
+Method;INCLUDE;Title/Abstract;"""Causal effect inference""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Causal feature selection""[Title/Abstract]";6
+Method;INCLUDE;Title/Abstract;"""Causal learning""[Title/Abstract]";270
+Method;INCLUDE;Title/Abstract;"""Causal map*""[Title/Abstract]";38
+Method;INCLUDE;Title/Abstract;"""Causal Path Diagram*""[Title/Abstract]";7
+Method;INCLUDE;Title/Abstract;"""causal profil*""[Title/Abstract]";5
+Method;INCLUDE;Title/Abstract;"""causal reinforcement learning""[Title/Abstract]";1
+Method;INCLUDE;Title/Abstract;"""Causal skeleton""[Title/Abstract]";2
+Method;INCLUDE;Title/Abstract;"""Causal structure identification""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Causal structure learning""[Title/Abstract]";33
+Method;INCLUDE;Title/Abstract;"""Causal structure""[Title/Abstract]";564
+Method;INCLUDE;Title/Abstract;"""Confirmatory Factor Analysis""[Title/Abstract]";16641
+Method;INCLUDE;Title/Abstract;"""Control Function Approach""[Title/Abstract]";20
+Method;INCLUDE;Title/Abstract;"""Control function method""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Counterfactual analysis""[Title/Abstract]";117
+Method;INCLUDE;Title/Abstract;"""Counterfactual Framework""[Title/Abstract]";119
+Method;INCLUDE;Title/Abstract;"""d-separation""[Title/Abstract]";177
+Method;INCLUDE;Title/Abstract;"""Differences in differences""[Title/Abstract]";268
+Method;INCLUDE;Title/Abstract;"""Directed Acyclic Graph*""[Title/Abstract]";1147
+Method;INCLUDE;Title/Abstract;"""do-calculus""[Title/Abstract]";13
+Method;INCLUDE;Title/Abstract;"""Doubly robust estimat*""[Title/Abstract]";233
+Method;INCLUDE;Title/Abstract;"""G-calibration""[Title/Abstract]";2
+Method;INCLUDE;Title/Abstract;"""G-computation""[Title/Abstract]";355
+Method;INCLUDE;Title/Abstract;"""G-estimation""[Title/Abstract]";163
+Method;INCLUDE;Title/Abstract;"""G-formula*""[Title/Abstract]";374
+Method;INCLUDE;Title/Abstract;"""G-method*""[Title/Abstract]";690
+Method;INCLUDE;Title/Abstract;"""Instrumental variable*""[Title/Abstract]";4106
+Method;INCLUDE;Title/Abstract;"""Latent Profile Analysis""[Title/Abstract]";2150
+Method;INCLUDE;Title/Abstract;"""Latent Structure Analysis""[Title/Abstract]";55
+Method;INCLUDE;Title/Abstract;"""Latent Variable Analysis""[Title/Abstract]";125
+Method;INCLUDE;Title/Abstract;"""Latent Variable Model""[Title/Abstract]";437
+Method;INCLUDE;Title/Abstract;"""Linear structural relations""[Title/Abstract]";46
+Method;INCLUDE;Title/Abstract;"""Marginal structural*""[Title/Abstract]";1154
+Method;INCLUDE;Title/Abstract;"""Maximal ancestral""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Measurement Models""[Title/Abstract]";743
+Method;INCLUDE;Title/Abstract;"""Mechanistic inference""[Title/Abstract]";16
+Method;INCLUDE;Title/Abstract;"""Mediation analys*""[Title/Abstract]";11189
+Method;INCLUDE;Title/Abstract;"""Mendelian randomization""[Title/Abstract]";4845
+Method;INCLUDE;Title/Abstract;"""Neyman-Rubin Causal Model""[Title/Abstract]";1
+Method;INCLUDE;Title/Abstract;"""Partial Ancestral""[Title/Abstract]";5
+Method;INCLUDE;Title/Abstract;"""Path analys*""[Title/Abstract]";9617
+Method;INCLUDE;Title/Abstract;"""Path Analysis""[Title/Abstract]";7644
+Method;INCLUDE;Title/Abstract;"""Potential outcome*""[Title/Abstract]";2327
+Method;INCLUDE;Title/Abstract;"""Potential Outcomes Framework""[Title/Abstract]";99
+Method;INCLUDE;Title/Abstract;"""Regression discontinuity design*""[Title/Abstract]";373
+Method;INCLUDE;Title/Abstract;"""Rubin Causal Model""[Title/Abstract]";16
+Method;INCLUDE;Title/Abstract;"""Rubin causal""[Title/Abstract]";16
+Method;INCLUDE;Title/Abstract;"""Single-World Intervention Graph""[Title/Abstract]";1
+Method;INCLUDE;Title/Abstract;"""Structural Causal Model*""[Title/Abstract]";39
+Method;INCLUDE;Title/Abstract;"""Structural equation*""[Title/Abstract]";28647
+Method;INCLUDE;Title/Abstract;"""Structural Relations""[Title/Abstract]";317
+Method;INCLUDE;Title/Abstract;"""Synthetic control*""[Title/Abstract]";704
+Method;INCLUDE;Title/Abstract;"""Targeted Maximum Likelihood Estimation""[Title/Abstract]";175
+Method;INCLUDE;Title/Abstract;"""Two-Stage Least Squares""[Title/Abstract]";356

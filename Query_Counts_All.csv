@@ -1,0 +1,137 @@
+DOMAIN;INCLUDE_EXCLUDE;FIELD;Query;Result_Counts
+Intention;INCLUDE;MeSH;"""causality""[MeSH]";962516
+Intention;INCLUDE;Title/Abstract;"""causal*""[Title/Abstract]";139814
+INTENTION;INCLUDE;Combined;"""causality""[MeSH] OR ""causal*""[Title/Abstract]";1085861
+Suicide;INCLUDE;MeSH;"""Suicide Prevention""[Mesh]";11153
+Suicide;INCLUDE;MeSH;"""Suicide, Attempted""[Mesh]";22484
+Suicide;INCLUDE;MeSH;"""Suicide, Completed""[Mesh]";271
+Suicide;INCLUDE;MeSH;"""Suicide""[Mesh:NoExp]";39532
+Suicide;INCLUDE;Title/Abstract;"""Intentional Poisoning*""[Title/Abstract]";267
+Suicide;INCLUDE;Title/Abstract;"""suicid*""[Title/Abstract]";93628
+SUICIDE;INCLUDE;Combined;"""Suicide Prevention""[Mesh] OR ""Suicide, Attempted""[Mesh] OR ""Suicide, Completed""[Mesh] OR ""Suicide""[Mesh:NoExp] OR ""Intentional Poisoning*""[Title/Abstract] OR ""suicid*""[Title/Abstract]";107600
+Suicide;EXCLUDE;MeSH;"""Suicide, assisted""[Mesh]";6217
+Suicide;EXCLUDE;MeSH;"""Euthanasia""[Mesh]";15241
+Suicide;EXCLUDE;MeSH;"""Right to Die""[Mesh]";4958
+Suicide;EXCLUDE;MeSH;"""Suicide, Assisted""[Mesh]";6217
+Suicide;EXCLUDE;Text;"""assisted suicide""[Title/Abstract]";3302
+Suicide;EXCLUDE;Text;"""Euthanasia""[Title/Abstract]";23745
+Suicide;EXCLUDE;Text;"""physician-assisted suicide""[Title/Abstract]";1697
+Suicide;EXCLUDE;Text;"""Right to Die""[Title/Abstract]";980
+SUICIDE;EXCLUDE;Combined;"""Suicide, assisted""[Mesh] OR ""Euthanasia""[Mesh] OR ""Right to Die""[Mesh] OR ""Suicide, Assisted""[Mesh] OR ""assisted suicide""[Title/Abstract] OR ""Euthanasia""[Title/Abstract] OR ""physician-assisted suicide""[Title/Abstract] OR ""Right to Die""[Title/Abstract]";33842
+Method;INCLUDE;MeSH;"""Mediation Analysis""[Mesh]";663
+Method;INCLUDE;MeSH;"""Mendelian Randomization Analysis""[MeSH]";3242
+Method;INCLUDE;Title/Abstract;"""Analysis of Moment Structure*""[Title/Abstract]";78
+Method;INCLUDE;Title/Abstract;"""Ancestral directed acyclic graph""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Ancestral graph factorization""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Ancestral graph Markov blanket""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Ancestral graph Markov model""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Ancestral Graph""[Title/Abstract]";15
+Method;INCLUDE;Title/Abstract;"""Bayesian network*""[Title/Abstract]";4827
+Method;INCLUDE;Title/Abstract;"""Causal ancestral graph""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal belief network""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal counterfactual graph""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""causal deep learning""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Causal diagram""[Title/Abstract]";85
+Method;INCLUDE;Title/Abstract;"""Causal directed acyclic graph*""[Title/Abstract]";42
+Method;INCLUDE;Title/Abstract;"""Causal discovery mining""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal discovery""[Title/Abstract]";159
+Method;INCLUDE;Title/Abstract;"""Causal effect inference""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Causal Effect Networks""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal feature learning""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal feature selection""[Title/Abstract]";6
+Method;INCLUDE;Title/Abstract;"""Causal graph discovery""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal inference discovery""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal inference learning""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal influence diagram*""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal influence map*""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal learning""[Title/Abstract]";270
+Method;INCLUDE;Title/Abstract;"""Causal map*""[Title/Abstract]";38
+Method;INCLUDE;Title/Abstract;"""Causal Markov blanket*""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal Markov propert*""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal Model Selection""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal network discovery""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal Path Diagram*""[Title/Abstract]";7
+Method;INCLUDE;Title/Abstract;"""Causal path discovery""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal probabilistic graphical model""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""causal profil*""[Title/Abstract]";5
+Method;INCLUDE;Title/Abstract;"""causal reinforcement learning""[Title/Abstract]";1
+Method;INCLUDE;Title/Abstract;"""Causal relationship mining""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal skeleton""[Title/Abstract]";2
+Method;INCLUDE;Title/Abstract;"""Causal structure identification""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Causal structure learning""[Title/Abstract]";33
+Method;INCLUDE;Title/Abstract;"""Causal structure""[Title/Abstract]";564
+Method;INCLUDE;Title/Abstract;"""Causal variable learning""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causal variable selection""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Causation discovery""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;“Computational Causal*”[Title/Abstract];0
+Method;INCLUDE;Title/Abstract;"""Confirmatory Factor Analysis""[Title/Abstract]";16641
+Method;INCLUDE;Title/Abstract;"""Control Function Approach""[Title/Abstract]";20
+Method;INCLUDE;Title/Abstract;"""Control function method""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Counterfactual analysis""[Title/Abstract]";117
+Method;INCLUDE;Title/Abstract;"""Counterfactual flow diagram""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Counterfactual Framework""[Title/Abstract]";119
+Method;INCLUDE;Title/Abstract;"""Counterfactual Graph""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Counterfactual influence diagram""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Counterfactual influence map""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Counterfactual Markov blanket""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Counterfactual Markov property""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""d-separation""[Title/Abstract]";177
+Method;INCLUDE;Title/Abstract;"""Differences in differences""[Title/Abstract]";268
+Method;INCLUDE;Title/Abstract;"""Directed acyclic causal""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Directed Acyclic Graph*""[Title/Abstract]";1147
+Method;INCLUDE;Title/Abstract;"""Directed Ancestral Graph*""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Directed Separator Graph*""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""do-calculus""[Title/Abstract]";13
+Method;INCLUDE;Title/Abstract;"""Doubly robust estimat*""[Title/Abstract]";233
+Method;INCLUDE;Title/Abstract;"""Exploratory causal inference""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""G-calibration""[Title/Abstract]";2
+Method;INCLUDE;Title/Abstract;"""G-computation""[Title/Abstract]";355
+Method;INCLUDE;Title/Abstract;"""G-estimation""[Title/Abstract]";163
+Method;INCLUDE;Title/Abstract;"""G-formula*""[Title/Abstract]";374
+Method;INCLUDE;Title/Abstract;"""G-method*""[Title/Abstract]";690
+Method;INCLUDE;Title/Abstract;"""Instrumental variable*""[Title/Abstract]";4106
+Method;INCLUDE;Title/Abstract;"""Latent Profile Analysis""[Title/Abstract]";2150
+Method;INCLUDE;Title/Abstract;"""Latent Structure Analysis""[Title/Abstract]";55
+Method;INCLUDE;Title/Abstract;"""Latent Variable Analysis""[Title/Abstract]";125
+Method;INCLUDE;Title/Abstract;"""Latent Variable Model""[Title/Abstract]";437
+Method;INCLUDE;Title/Abstract;"""Linear structural relations""[Title/Abstract]";46
+Method;INCLUDE;Title/Abstract;"""Marginal structural*""[Title/Abstract]";1154
+Method;INCLUDE;Title/Abstract;"""Maximal ancestral""[Title/Abstract]";4
+Method;INCLUDE;Title/Abstract;"""Measurement Models""[Title/Abstract]";743
+Method;INCLUDE;Title/Abstract;"""Mechanistic inference""[Title/Abstract]";16
+Method;INCLUDE;Title/Abstract;"""Mediation analys*""[Title/Abstract]";11189
+Method;INCLUDE;Title/Abstract;"""Mendelian randomization""[Title/Abstract]";4845
+Method;INCLUDE;Title/Abstract;"""Neyman-Rubin Causal Model""[Title/Abstract]";1
+Method;INCLUDE;Title/Abstract;"""Partial Ancestral""[Title/Abstract]";5
+Method;INCLUDE;Title/Abstract;"""Path analys*""[Title/Abstract]";9617
+Method;INCLUDE;Title/Abstract;"""Path Analysis""[Title/Abstract]";7644
+Method;INCLUDE;Title/Abstract;"""Potential outcome*""[Title/Abstract]";2327
+Method;INCLUDE;Title/Abstract;"""Potential Outcomes Framework""[Title/Abstract]";99
+Method;INCLUDE;Title/Abstract;"""Regression discontinuity design*""[Title/Abstract]";373
+Method;INCLUDE;Title/Abstract;"""Rubin Causal Model""[Title/Abstract]";16
+Method;INCLUDE;Title/Abstract;"""Rubin causal""[Title/Abstract]";16
+Method;INCLUDE;Title/Abstract;"""Single-World Intervention Graph""[Title/Abstract]";1
+Method;INCLUDE;Title/Abstract;"""Statistical Latent Variable Modeling""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Structural Causal Model*""[Title/Abstract]";39
+Method;INCLUDE;Title/Abstract;"""Structural equation*""[Title/Abstract]";28647
+Method;INCLUDE;Title/Abstract;"""Structural Relations""[Title/Abstract]";317
+Method;INCLUDE;Title/Abstract;"""Synthetic control*""[Title/Abstract]";704
+Method;INCLUDE;Title/Abstract;"""Targeted Maximum Likelihood Estimation""[Title/Abstract]";175
+Method;INCLUDE;Title/Abstract;"""The principal stratification method""[Title/Abstract]";0
+Method;INCLUDE;Title/Abstract;"""Two-Stage Least Squares""[Title/Abstract]";356
+Method;INCLUDE;Combined;"""Mediation Analysis""[Mesh] OR ""Mendelian Randomization Analysis""[MeSH] OR ""Analysis of Moment Structure*""[Title/Abstract] OR ""Ancestral directed acyclic graph""[Title/Abstract] OR ""Ancestral graph factorization""[Title/Abstract] OR ""Ancestral graph Markov blanket""[Title/Abstract] OR ""Ancestral graph Markov model""[Title/Abstract] OR ""Ancestral Graph""[Title/Abstract] OR ""Bayesian network*""[Title/Abstract] OR ""Causal ancestral graph""[Title/Abstract] OR ""Causal belief network""[Title/Abstract] OR ""Causal counterfactual graph""[Title/Abstract] OR ""causal deep learning""[Title/Abstract] OR ""Causal diagram""[Title/Abstract] OR ""Causal directed acyclic graph*""[Title/Abstract] OR ""Causal discovery mining""[Title/Abstract] OR ""Causal discovery""[Title/Abstract] OR ""Causal effect inference""[Title/Abstract] OR ""Causal Effect Networks""[Title/Abstract] OR ""Causal feature learning""[Title/Abstract] OR ""Causal feature selection""[Title/Abstract] OR ""Causal graph discovery""[Title/Abstract] OR ""Causal inference discovery""[Title/Abstract] OR ""Causal inference learning""[Title/Abstract] OR ""Causal influence diagram*""[Title/Abstract] OR ""Causal influence map*""[Title/Abstract] OR ""Causal learning""[Title/Abstract] OR ""Causal map*""[Title/Abstract] OR ""Causal Markov blanket*""[Title/Abstract] OR ""Causal Markov propert*""[Title/Abstract] OR ""Causal Model Selection""[Title/Abstract] OR ""Causal network discovery""[Title/Abstract] OR ""Causal Path Diagram*""[Title/Abstract] OR ""Causal path discovery""[Title/Abstract] OR ""Causal probabilistic graphical model""[Title/Abstract] OR ""causal profil*""[Title/Abstract] OR ""causal reinforcement learning""[Title/Abstract] OR ""Causal relationship mining""[Title/Abstract] OR ""Causal skeleton""[Title/Abstract] OR ""Causal structure identification""[Title/Abstract] OR ""Causal structure learning""[Title/Abstract] OR ""Causal structure""[Title/Abstract] OR ""Causal variable learning""[Title/Abstract] OR ""Causal variable selection""[Title/Abstract] OR ""Causation discovery""[Title/Abstract] OR “Computational Causal*”[Title/Abstract] OR ""Confirmatory Factor Analysis""[Title/Abstract] OR ""Control Function Approach""[Title/Abstract] OR ""Control function method""[Title/Abstract] OR ""Counterfactual analysis""[Title/Abstract] OR ""Counterfactual flow diagram""[Title/Abstract] OR ""Counterfactual Framework""[Title/Abstract] OR ""Counterfactual Graph""[Title/Abstract] OR ""Counterfactual influence diagram""[Title/Abstract] OR ""Counterfactual influence map""[Title/Abstract] OR ""Counterfactual Markov blanket""[Title/Abstract] OR ""Counterfactual Markov property""[Title/Abstract] OR ""d-separation""[Title/Abstract] OR ""Differences in differences""[Title/Abstract] OR ""Directed acyclic causal""[Title/Abstract] OR ""Directed Acyclic Graph*""[Title/Abstract] OR ""Directed Ancestral Graph*""[Title/Abstract] OR ""Directed Separator Graph*""[Title/Abstract] OR ""do-calculus""[Title/Abstract] OR ""Doubly robust estimat*""[Title/Abstract] OR ""Exploratory causal inference""[Title/Abstract] OR ""G-calibration""[Title/Abstract] OR ""G-computation""[Title/Abstract] OR ""G-estimation""[Title/Abstract] OR ""G-formula*""[Title/Abstract] OR ""G-method*""[Title/Abstract] OR ""Instrumental variable*""[Title/Abstract] OR ""Latent Profile Analysis""[Title/Abstract] OR ""Latent Structure Analysis""[Title/Abstract] OR ""Latent Variable Analysis""[Title/Abstract] OR ""Latent Variable Model""[Title/Abstract] OR ""Linear structural relations""[Title/Abstract] OR ""Marginal structural*""[Title/Abstract] OR ""Maximal ancestral""[Title/Abstract] OR ""Measurement Models""[Title/Abstract] OR ""Mechanistic inference""[Title/Abstract] OR ""Mediation analys*""[Title/Abstract] OR ""Mendelian randomization""[Title/Abstract] OR ""Neyman-Rubin Causal Model""[Title/Abstract] OR ""Partial Ancestral""[Title/Abstract] OR ""Path analys*""[Title/Abstract] OR ""Path Analysis""[Title/Abstract] OR ""Potential outcome*""[Title/Abstract] OR ""Potential Outcomes Framework""[Title/Abstract] OR ""Regression discontinuity design*""[Title/Abstract] OR ""Rubin Causal Model""[Title/Abstract] OR ""Rubin causal""[Title/Abstract] OR ""Single-World Intervention Graph""[Title/Abstract] OR ""Statistical Latent Variable Modeling""[Title/Abstract] OR ""Structural Causal Model*""[Title/Abstract] OR ""Structural equation*""[Title/Abstract] OR ""Structural Relations""[Title/Abstract] OR ""Synthetic control*""[Title/Abstract] OR ""Targeted Maximum Likelihood Estimation""[Title/Abstract] OR ""The principal stratification method""[Title/Abstract] OR ""Two-Stage Least Squares""[Title/Abstract]";NA
+Method;EXCLUDE;Text;"""theoretical anal*""[Title/Abstract]";NA
+Method;EXCLUDE;Text;"""graph analytic*""[Title/Abstract]";NA
+Method;EXCLUDE;Text;"""graph theoret*""[Title/Abstract]";NA
+Method;EXCLUDE;Combined;"""theoretical anal*""[Title/Abstract] OR ""graph analytic*""[Title/Abstract] OR ""graph theoret*""[Title/Abstract]";NA
+Article_Type;EXCLUDE;Publication Type;"""Review"" [Publication Type]";NA
+Article_Type;EXCLUDE;Publication Type;"""Systematic Review"" [Publication Type]";NA
+Article_Type;EXCLUDE;Publication Type;"""Meta-Analysis"" [Publication Type]";NA
+Article_Type;EXCLUDE;Publication Type;"""Network Meta-Analysis""[Mesh] ";NA
+Article_Type;EXCLUDE;Publication Type;"""Review""[Title]";NA
+Article_Type;EXCLUDE;Title;"""Systematic-Review""[Title]";NA
+Article_Type;EXCLUDE;Title;"""Meta-Analysis""[Title]";NA
+Article_Type;EXCLUDE;Combined;"""Review"" [Publication Type] OR ""Systematic Review"" [Publication Type] OR ""Meta-Analysis"" [Publication Type] OR ""Network Meta-Analysis""[Mesh]  OR ""Review""[Title] OR ""Systematic-Review""[Title] OR ""Meta-Analysis""[Title]";NA
+Population;EXCLUDE;MeSH;"""Adolescent""[Mesh]";NA
+Population;EXCLUDE;MeSH;"""Child""[Mesh]";NA
+Population;EXCLUDE;Combined;"""Adolescent""[Mesh] OR ""Child""[Mesh]";NA
